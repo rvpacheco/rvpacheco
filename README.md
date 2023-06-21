@@ -22,7 +22,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=rodolfopacheco&show_icons=true&theme=react" />
+ 
 
 </div>
 
@@ -38,9 +38,9 @@
   
  </div>
 
-[![Rodolfo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rodolfopacheco&bg_color=030303&color=76eadc&line=25a2a0&point=b1a9a9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🎧 I'm currently jamming to
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=rodolfopflorez&count={3})
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=rodolfopflorez)
 
 
 </br>
