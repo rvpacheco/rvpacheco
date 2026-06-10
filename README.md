@@ -11,6 +11,9 @@
 <div align="center">🧗 Fun fact: I'm a rock climber</div>
 </br>
 
+**[crashpath-showcase](https://github.com/rvpacheco/crashpath-showcase) - code snippets from a gym management SaaS I built**
+
+
 ## <div align="center">Main skills:</div>
 
 <div align="center">
