@@ -13,6 +13,8 @@
 
 **[crashpath-showcase](https://github.com/rvpacheco/crashpath-showcase) - code snippets from a gym management SaaS I built**
 
+**[kosh-showcase](https://github.com/rvpacheco/kosh-showcase) - AI jewelry designer with OpenAI Threads API and DALL-E 3**
+
 
 ## <div align="center">Main skills:</div>
 
