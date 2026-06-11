@@ -1,15 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=228B22&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Rodolfo+Pacheco+💻;Full-Stack+Developer+%7C+Shopify+%7C+Next.js;Building+real+products+for+real+businesses;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=228B22&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Rodolfo+Pacheco+💻;Full-Stack+Developer+%7C+Next.js+%7C+web3;Building+real+products+for+real+businesses;)](https://git.io/typing-svg)
 
 <div align="center">Full-Stack Developer based in Colombia 🇨🇴 · Originally from Venezuela 🇻🇪</div>
 <div align="center">3+ years building web apps, e-commerce platforms, and AI-powered solutions</div>
 </br>
 <div align="center">⚡ Specialized in Next.js, React, Node.js, MongoDB and Shopify (Liquid, CLI, Translate & Adapt)</div>
+<div align="center">⛓️ Building on Solana — compressed NFTs, embedded wallets, on-chain verification</div>
 <div align="center">🤖 AI Trainer at Alignerr/Labelbox — LLM evaluation & fine-tuning data generation</div>
 <div align="center">🛒 E-commerce & SaaS — from custom Shopify themes to full-stack platforms with Stripe</div>
 <div align="center">🧗 Fun fact: I'm a rock climber</div>
 </br>
+
+**[nft-ticketing](https://github.com/rvpacheco/nft-ticketing) - NFT event ticketing on Solana: compressed NFTs, embedded wallets, rotating signed QR door check**
 
 **[crashpath-showcase](https://github.com/rvpacheco/crashpath-showcase) - code snippets from a gym management SaaS I built**
 
@@ -28,6 +31,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 ![Shopify](https://img.shields.io/badge/-Shopify-0D1117?style=for-the-badge&logo=shopify&labelColor=0D1117)&nbsp;
 ![Stripe](https://img.shields.io/badge/-Stripe-0D1117?style=for-the-badge&logo=stripe&labelColor=0D1117)&nbsp;
+![Solana](https://img.shields.io/badge/-Solana-0D1117?style=for-the-badge&logo=solana&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazon-aws&labelColor=0D1117)&nbsp;
 
