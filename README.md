@@ -53,7 +53,7 @@
 <div align="center">
   rvpacheco17@gmail.com &nbsp;
   <a href="mailto:rvpacheco17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/></a>&nbsp;
-  <a href="https://linkedin.com/in/rodolfo-vida-pacheco-florez"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
+  <a href="https://www.linkedin.com/in/rodolfopflorez-dev/"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
